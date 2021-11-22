@@ -10,7 +10,7 @@ I complete the following analysis to create a report:
 4. Visualizing Cryptocurrencies Results 
 
 
-## Result
+## Results
 
 ### Clustering Cryptocurrencies Using K-Means: Elbow Curve
 
